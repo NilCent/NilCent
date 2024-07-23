@@ -18,9 +18,9 @@
 ### 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are Shoes Not Shaped Like Feet?](https://kevinfeng-cs88.medium.com/why-are-shoes-not-shaped-like-feet-7f80bebd6c69?source=rss-952aa1b4a284------2)
-- [Tic-tac-Go: A Gopher’s Approach to the Minimax Algorithm](https://kevinfeng-cs88.medium.com/tic-tac-go-a-gophers-approach-to-the-minimax-algorithm-1cb9433ae3cf?source=rss-952aa1b4a284------2)
-- [Overhauling my Neovim LSP and lazy.nvim configurations](https://kevinfeng-cs88.medium.com/overhauling-my-neovim-lsp-and-lazy-nvim-configurations-605eaa908b62?source=rss-952aa1b4a284------2)
-- [Setting up Windows Subsystem for Linux &lpar;without Microsoft Store&rpar;](https://medium.com/nerd-for-tech/setting-up-windows-subsystem-for-linux-without-microsoft-store-f85571c1b819?source=rss-952aa1b4a284------2)
-- [Neovim, but it’s in Windows](https://medium.com/nerd-for-tech/neovim-but-its-in-windows-f39f181afaf9?source=rss-952aa1b4a284------2)
+- [戏说 Git 工作流程](https://nilcent.github.io/post/programming/%E6%88%8F%E8%AF%B4-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/)
+- [在 GitHub 上搭建个人博客](https://nilcent.github.io/post/programming/%E5%9C%A8-github-%E4%B8%8A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
+- [Archives](https://nilcent.github.io/page/archives/)
+- [Programming](https://nilcent.github.io/categories/programming/)
+- [Search](https://nilcent.github.io/page/search/)
 <!-- BLOG-POST-LIST:END -->
