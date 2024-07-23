@@ -12,7 +12,7 @@
 
 ### 👁‍🗨 [Focus Repositories](https://github.com/NilCent?tab=repositories)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=discord_old_blurple&hide_border=true)]([https://github.com/kevinfengcs88/wavedash](https://github.com/DiceDB/dice))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiceDB&repo=dice&theme=discord_old_blurple&hide_border=true)](https://github.com/DiceDB/dice)
 
 
 ### 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
