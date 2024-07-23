@@ -2,23 +2,18 @@
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">Hi there, I'm NilCent
 
-- 👋 Hi, I’m @NilCent
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I want to *do something awesome*.
+- 📌 My skills include expertise in golang.
+- 🪬 I’m interested in *Database, GameDev, OS, Rust, Modern C++*...
+- 🌱 I’m currently learning *PG source code*.
 
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilCent&theme=tokyonight" height=145/></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=NilCent&count_private=true&show_icons=true&theme=merko" height=145/></span>
 
-### [repositories of interest](https://github.com/kevinfengcs88?tab=repositories)
+### 👁‍🗨 [Focus Repositories](https://github.com/NilCent?tab=repositories)
 
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/wavedash)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=emu-bot&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/emu-bot)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=neovim-config&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/neovim-config)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=kahoot-monkey&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/kahoot-monkey)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=toa-gui&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/toa-gui)
-[![Readme Card](https://github-readme-stats-kevinfengcs88.vercel.app/api/pin/?username=kevinfengcs88&repo=MonkeyStock&theme=discord_old_blurple&hide_border=true)](https://github.com/kevinfengcs88/MonkeyStock)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinfengcs88&repo=wavedash&theme=discord_old_blurple&hide_border=true)]([https://github.com/kevinfengcs88/wavedash](https://github.com/DiceDB/dice))
+
 
 ### 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
