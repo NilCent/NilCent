@@ -21,9 +21,8 @@
 ### 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
 
 <!-- BLOG-POST-LIST:START -->
-- [戏说 Git 工作流程](https://nilcent.github.io/post/programming/%E6%88%8F%E8%AF%B4-git-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B/)
-- [在 GitHub 上搭建个人博客](https://nilcent.github.io/post/programming/%E5%9C%A8-github-%E4%B8%8A%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
 - [Archives](https://nilcent.github.io/page/archives/)
 - [Programming](https://nilcent.github.io/categories/programming/)
 - [Search](https://nilcent.github.io/page/search/)
+- [作家图鉴](https://nilcent.github.io/categories/%E4%BD%9C%E5%AE%B6%E5%9B%BE%E9%89%B4/)
 <!-- BLOG-POST-LIST:END -->
