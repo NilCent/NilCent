@@ -24,5 +24,4 @@
 - [Archives](https://nilcent.github.io/page/archives/)
 - [Programming](https://nilcent.github.io/categories/programming/)
 - [Search](https://nilcent.github.io/page/search/)
-- [作家图鉴](https://nilcent.github.io/categories/%E4%BD%9C%E5%AE%B6%E5%9B%BE%E9%89%B4/)
 <!-- BLOG-POST-LIST:END -->
