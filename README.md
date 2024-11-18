@@ -2,14 +2,6 @@
 
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="25px" width="25px">Hi there, I'm NilCent
 
-- 👀 I want to *do something awesome*.
-- 📌 My skills include expertise in golang.
-- 🪬 I’m interested in *Database, GameDev, OS, Rust, Modern C++*...
-- 🌱 I’m currently learning *PG source code*.
-- 🛠 Here is my Blog [NilCent](https://nilcent.github.io/)
-
-
-
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilCent&theme=tokyonight" height=145/></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=NilCent&count_private=true&show_icons=true&theme=merko" height=145/></span>
 
