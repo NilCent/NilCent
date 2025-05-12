@@ -7,7 +7,7 @@
 
 ### 👁‍🗨 [Focus Repositories](https://github.com/NilCent?tab=repositories)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiceDB&repo=dice&theme=discord_old_blurple&hide_border=true)](https://github.com/DiceDB/dice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DiceDB&repo=dice&theme=discord_old_blurple&hide_border=true)](https://github.com/helix-editor/helix)
 
 
 ### 📕 [Latest Blog Posts](https://medium.com/@kevinfeng-cs88)
